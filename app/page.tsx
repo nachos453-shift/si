@@ -121,8 +121,7 @@ export default function HomePage() {
             <CharacterCard
               name="Roronoa Zoro"
               image="/images/zoro.png"
-              quote="Aquí no paso nada..."
-              quote="Hola"
+              quote="Aquí no paso nada... "
               isNight={isNight}
               delay={0.2}
             />
