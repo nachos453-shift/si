@@ -121,14 +121,15 @@ export default function HomePage() {
             <CharacterCard
               name="Roronoa Zoro"
               image="/images/zoro.png"
-              quote="Nada pasó... excepto que me perdí camino hacia tu corazón"
+              quote="Aquí no paso nada..."
+              quote="Hola"
               isNight={isNight}
               delay={0.2}
             />
             <CharacterCard
               name="Monkey D. Luffy"
               image="/images/luffy.png"
-              quote="¡Seré el Rey de los Piratas! Y tú mi nakama más especial"
+              quote="¡Seré el Rey de los Piratas!"
               isNight={isNight}
               delay={0.4}
             />
