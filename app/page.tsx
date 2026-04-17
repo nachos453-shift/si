@@ -10,7 +10,7 @@ import { FunFacts } from "@/components/fun-facts"
 import { DayNightToggle } from "@/components/day-night-toggle"
 
 const messages = [
-  "Para ti mi negra 💖",
+  "Para ti mi negra ♥️",
   "Eres lo más bonito que me ha pasado 🌷",
   "Los mejores momentos son a tu lado ✨",
   "Como un atardecer, iluminas todo 🌅",
@@ -175,7 +175,7 @@ export default function HomePage() {
               Cada día a tu lado es una aventura que vale la pena vivir 🌅
             </p>
             <div className="mt-6 animate-heartbeat">
-              <span className="text-4xl md:text-5xl">💖</span>
+              <span className="text-4xl md:text-5xl">♥️</span>
             </div>
           </div>
         </div>
@@ -190,7 +190,7 @@ export default function HomePage() {
         }}
       >
         <p className="text-sm">
-          Hecho con mucho 💖 para alguien muy especial
+          Hecho con mucho ♥️ para alguien muy especial
         </p>
       </footer>
     </main>
