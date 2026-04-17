@@ -7,9 +7,10 @@ interface FunFactsProps {
 }
 
 const funFacts = [
-  { icon: "🍟", text: "Las papas fritas son perfectas para cualquier momento" },
+  { icon: "🍟", text: "Las papas fritas son perfectas para cualquier momento contigo" },
   { icon: "🌷", text: "Los tulipanes representan el amor perfecto" },
-  { icon: "🌅", text: "Los atardeceres me recuerdan a momentos especiales" },
+  { icon: "🌅", text: "Quiero pasar contigo muchos atardeceres y dedicarte cada uno de ellos" },
+  { icon: "🍰", text: "Pasar muchos más momentos contigo... pero sin tirarlo"},
   { icon: "⚔️", text: "Zoro nunca se pierde... bueno, casi nunca" },
   { icon: "👒", text: "Luffy nos enseña que los sueños valen la pena" },
 ]
