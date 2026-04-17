@@ -105,7 +105,7 @@ export function CharacterCard({ name, image, quote, isNight, delay = 0 }: Charac
       {/* Heart animation on click */}
       {showHeart && (
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 animate-heartbeat pointer-events-none">
-          <span className="text-5xl">💖</span>
+          <span className="text-5xl">♥️</span>
         </div>
       )}
     </div>
